@@ -9,17 +9,6 @@ I collaborate closely with designers and other team members to transform website
 Continuous learning is a vital part of my journey as a web developer, as I stay updated with the latest trends and technologies in this ever-evolving field.
 I take pride in my role, as I contribute to the digital landscape by bringing ideas to life and making a meaningful impact through my web development skills.
 
-
-
-## Next App
-
-To Create Next App
-
-```bash
-  npx create-next-app@latest
-```
-
-
 ## Extension 
 
 - ES7+ 
