@@ -3,7 +3,7 @@
 
 
 # Mehedi Hasan Mahim
-As a web developer, I specialize in creating and maintaining websites with expertise in HTML, CSS, and JavaScript.
+As a web developer, I specialize in creating and maintaining websites with expertise in HTML, CSS, and JavaScript,python,django.
 My passion lies in designing intuitive user interfaces and crafting a seamless user experience.
 I collaborate closely with designers and other team members to transform website concepts into functional reality.
 Continuous learning is a vital part of my journey as a web developer, as I stay updated with the latest trends and technologies in this ever-evolving field.
