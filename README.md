@@ -23,7 +23,7 @@ I am constantly learning and adapting to the ever-changing web development lands
 
 
 ## 🛠 Skills
-HTML5 , CSS3 , JS , NEXT JS , Bootstrap5
+HTML5 , CSS3 , JS , NEXT JS , Bootstrap5 ,Python , Django
 
 
 ## Other Common Github Profile Sections
